@@ -3,6 +3,7 @@
   "displayName": "GitLab WebIDE Theme",
   "description": "Theme extracted from the GitLab WebIDE repository",
   "version": "0.0.1",
+  "publisher": "AlbertoRestifo",
   "repository": {
     "type": "git",
     "url": "https://github.com/albertorestifo/gitlab-webide-theme.git"
