@@ -3,6 +3,10 @@
   "displayName": "GitLab WebIDE Theme",
   "description": "Theme extracted from the GitLab WebIDE repository",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albertorestifo/gitlab-webide-theme.git"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },
