@@ -1,0 +1,31 @@
+{
+  "name": "gitlab-webide-theme",
+  "displayName": "GitLab WebIDE Theme",
+  "description": "Theme extracted from the GitLab WebIDE repository",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GitLab Dark Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GitLab_Dark_Grey-color-theme.json"
+      },
+      {
+        "label": "GitLab Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/GitLab_Dark-color-theme.json"
+      },
+      {
+        "label": "GitLab Light",
+        "uiTheme": "vs",
+        "path": "./themes/GitLab_Light-color-theme.json"
+      }
+    ]
+  }
+}
