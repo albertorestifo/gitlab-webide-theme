@@ -2,7 +2,7 @@
   "name": "gitlab-webide-theme",
   "displayName": "GitLab WebIDE Theme",
   "description": "Theme extracted from the GitLab WebIDE repository",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "AlbertoRestifo",
   "icon": "logo.png",
   "repository": {
